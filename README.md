@@ -1,5 +1,6 @@
 TryHackMe
-[![TryHackMe Profile](https://tryhackme-badge.vercel.app/api/users/Tahajrn)](https://tryhackme.com/p/Tahajrn)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Tahajrn-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Tahajrn)
 <!--
 **Catnemi/Catnemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
