@@ -2,7 +2,7 @@ TryHackMe
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Tahajrn-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Tahajrn)
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Tahajrn-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/)
+[![Hack The Box](https://www.hackthebox.eu/badge/image/YOUR_USER_ID)](https://app.hackthebox.com/profile/YOUR_USER_ID)
 <!--
 **Catnemi/Catnemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
